@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Onwanya Sakharet Burapha university";
-
+echo "Onwanya Sakharet อีกละ";
+?>
 </body>
 </html> 
