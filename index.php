@@ -3,7 +3,8 @@
 <body>
 
 <?php
-echo "Onwanya Sakharet อีกละ";
+echo "ka";
 ?>
+
 </body>
-</html> 
+</html>
